@@ -1,5 +1,5 @@
 ## Basic Todo Application
->This basic react application lets people add their to-do tasks for their day and delete them if required \
+>This basic react application lets people add their to-do tasks for their day and delete them if required 
 # Tech Used: 
 ReactJs
 # Steps to get it up and running
