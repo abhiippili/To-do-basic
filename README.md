@@ -6,4 +6,4 @@ ReactJs
 >Pre-requisities : Node installed
 1. Fork this project to your account 
 2. Clone this project using `git clone url` command
-3. Open the project folder and `run npm start` command to start this react application
+3. Open the project folder and run `npm start` command to start this react application
